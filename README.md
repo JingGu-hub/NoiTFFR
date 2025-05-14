@@ -1,4 +1,4 @@
-<a href="URL" target="[[https://github.com/JingGu-hub/NoiSFluc]()](https://anonymous.4open.science/r/NoiTFFR)"><h1>NoiTFFR: Robust Multivariate Time Series Classification with Noisy Labels via Time-Frequency Features and Fluctuation-Resistant</h1></a>
+<a href="URL" target="https://anonymous.4open.science/r/NoiTFFR"><h1>NoiTFFR: Robust Multivariate Time Series Classification with Noisy Labels via Time-Frequency Features and Fluctuation-Resistant</h1></a>
 This repository is the official implementation of NoiTFFR: Robust Multivariate Time Series Classification with Noisy Labels via Time-Frequency Features and Fluctuation-Resistant.
 
 <h2>Abstract</h2>
