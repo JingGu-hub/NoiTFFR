@@ -1,0 +1,7 @@
+python_version==3.9
+torch==2.5.0
+numpy==1.26.3
+pandas==2.2.3
+scikit_learn==1.6.0
+scipy==1.13.1
+sympy==1.13.1
