@@ -1,5 +1,5 @@
-<a href="URL" target="https://github.com/JingGu-hub/NoiSFluc"><h1>NoiSFluc: Robust Multivariate Time Series Classification with Noisy Labels via Ensemble Spatiotemporal Features and Fluctuation-Resistant</h1></a>
-This repository is the official implementation of NoiSFluc: Robust Multivariate Time Series Classification with Noisy Labels via Ensemble Spatiotemporal Features and Fluctuation-Resistant.
+<a href="URL" target="[[https://github.com/JingGu-hub/NoiSFluc]()](https://anonymous.4open.science/r/NoiTFFR)"><h1>NoiTFFR: Robust Multivariate Time Series Classification with Noisy Labels via Time-Frequency Features and Fluctuation-Resistant</h1></a>
+This repository is the official implementation of NoiTFFR: Robust Multivariate Time Series Classification with Noisy Labels via Time-Frequency Features and Fluctuation-Resistant.
 
 <h2>Abstract</h2>
 Noisy labels pose persistent and significant challenges in training robust neural networks. While extensive research has been conducted on addressing noisy labels, 
